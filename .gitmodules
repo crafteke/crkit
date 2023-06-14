@@ -10,3 +10,9 @@
 [submodule "panelController"]
 	path = panelController
 	url = git@github.com:crafteke/panelController.git
+[submodule "ws2801artnet"]
+	path = ws2801artnet
+	url = git@github.com:crafteke/ws2801artnet.git
+[submodule "counterpadpi"]
+	path = counterpadpi
+	url = git@github.com:crafteke/counterpadpi.git
