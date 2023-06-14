@@ -16,3 +16,6 @@
 [submodule "counterpadpi"]
 	path = counterpadpi
 	url = git@github.com:crafteke/counterpadpi.git
+[submodule "pcbs"]
+	path = pcbs
+	url = git@github.com:crafteke/pcbs.git
