@@ -1,0 +1,12 @@
+[submodule "rfidpi"]
+	path = rfidpi
+	url = git@github.com:crafteke/rfidpi.git
+[submodule "sioserver"]
+	path = sioserver
+	url = git@github.com:crafteke/sioserver.git
+[submodule "dmx2pwm"]
+	path = dmx2pwm
+	url = git@github.com:crafteke/dmx2pwm.git
+[submodule "panelController"]
+	path = panelController
+	url = git@github.com:crafteke/panelController.git
