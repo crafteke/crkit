@@ -4,13 +4,13 @@ CRKit, standing for Crafteke Reality Kit, is an innovative technology toolkit de
 
 ## Under the hood
 
-The CRKit uses Raspberry Pis connected with the game engine. Outputs are send through DMX packages to OLA instances hosted on RPis. User inputs are transmitted as JSON messages through the socketIO protocol. 
+The CRKit uses Raspberry Pis connected with the game engine. Outputs are send through DMX packages to OLA instances hosted on RPis. User inputs are transmitted as JSON messages through the socketIO protocol.
 
 ![schema](schema.jpg)
 
 ## Warning
 
-This project is still totally dedicated to Dystopia Escape Game developpers. We plan to separate distinguished functions from each other and extract specific use cases, and write examples to integrate with game engines. Don't try to use this now by yourself. If you are interested into using our hardware/software solutions, contact us at [Crafteke](https://crafteke.be/)
+This project is still totally dedicated to Dystopia Escape Game developers. We plan to separate distinguished functions from each other and extract specific use cases, and write examples to integrate with game engines. Don't try to use this now by yourself. If you are interested into using our hardware/software solutions, contact us at [Crafteke](https://crafteke.be/)
 
 ## Features
 
