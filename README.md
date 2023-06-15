@@ -4,7 +4,7 @@ CRKit, standing for Crafteke Reality Kit, is an innovative technology toolkit de
 
 ## Under the hood
 
-The CRKit uses Raspberry Pis connected with the game engine. Outputs are send through DMX packages to OLA instances hosted on RPis. User input are transmitted as JSON messages through the socketIO protocol. 
+The CRKit uses Raspberry Pis connected with the game engine. Outputs are send through DMX packages to OLA instances hosted on RPis. User inputs are transmitted as JSON messages through the socketIO protocol. 
 
 ![schema](schema.jpg)
 
@@ -129,9 +129,6 @@ public class ControlAction
  
 ## License
 This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
-
-## Acknowledgments
-We are seeking the Epic Mega Grant to expand the capabilities of CRKit. Your support helps us innovate and provide efficient solutions for creators globally.
 
 ---
 
